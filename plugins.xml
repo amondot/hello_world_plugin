@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+    <pyqgis_plugin name="Hello World" version="1.0.0">
+        <description><![CDATA[Hello World.]]></description>
+        <version>1.0.0</version>
+        <qgis_minimum_version>3.16</qgis_minimum_version>
+        <homepage>https://github.com/amondot/hello_world_plugin/</homepage>
+        <file_name>1.0.0.zip</file_name>
+        <icon>resources/icons/icon.png</icon>
+        <author_name>Al</author_name>
+        <download_url>https://github.com/amondot/hello_world_plugin/archive/refs/tags/1.0.0.zip</download_url>
+        <uploaded_by>Al</uploaded_by>
+        <create_date>2023-07-21</create_date>
+        <update_date>2023-07-21</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker>https://github.com/amondot/hello_world_plugin/issues</tracker>
+        <repository>https://github.com/amondot/hello_world_plugin/</repository>
+        <tags>Hello, World</tags>
+    </pyqgis_plugin>
+</plugins>
