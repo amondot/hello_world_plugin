@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/HelloWorld">
+    <file>icon.png</file>
+    <file>18860313.webp</file>
+  </qresource>
+</RCC>
